@@ -1,0 +1,60 @@
+.left img{
+    width: 150px;
+    height: 120px;
+}
+ nav{
+    padding:0 80px;
+} 
+.container{
+    width: 100vw;
+    height: 80px;
+    margin: auto;
+    margin-top: center;
+    border-radius: 30px;
+}
+nav ul li{
+    list-style: none;
+    padding: 12px;
+}
+
+.flex flex-right{
+    height: 10px;
+    width: 100px;
+}
+
+.section1{
+    background: rgba(253, 253, 250, 0.952);
+    padding-top: 5%;
+
+    /* height: 100vh;
+    width: auto;
+    margin:40px;
+   padding:0 10vw; */
+   width: 100%;
+   box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+header{
+    box-shadow: 8px 8px lightblue;  
+    position: sticky;  
+    top: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.home{
+    width:100vw;
+}
+.homes{
+    width: 100%;
+}
+.offer{
+    width: 100%;
+}
+.foot{
+    
+    font-style: oblique;
+    align-items: center;
+    box-shadow: burlywood;
+}
+.Address{
+    box-shadow: blanchedalmond;
+}
